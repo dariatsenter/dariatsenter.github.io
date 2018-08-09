@@ -9,6 +9,7 @@ body {
         box-shadow: 0px 8px 32px #666666;
         width: 50%;
         height: 30%;
+        margin: 0 auto;
       }
       .browser .chrome-top, .browser .chrome {
         background-color: #D4D2D4;
