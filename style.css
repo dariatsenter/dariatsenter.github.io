@@ -94,7 +94,7 @@ text-align: center;
 
 .browser .main {;
   clear: both;
-  height: 100%; /* 540 - 28 - 40*/
+  height: 80%; /* 540 - 28 - 40*/
 }
 
 .browser .main > * {
